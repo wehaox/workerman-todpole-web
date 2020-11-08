@@ -28,7 +28,7 @@ h1 {
 	left: 30px;
 	width: 268px;
 	height: 30px;
-	background: url(images/logo.png);
+	/* background: url(images/logo.png); */
 	overflow: hidden;
 	text-indent: 300px;
 }
